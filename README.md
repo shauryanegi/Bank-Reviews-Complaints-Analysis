@@ -1,6 +1,6 @@
 # Bank-Reviews-Complaints-Analysis
 
-BUSINESS PROBLEM :
+## BUSINESS PROBLEM :
 
 Central banks collecting information about customer satisfaction with the services provided by different bank. Also collects the complaints.
 
@@ -18,7 +18,7 @@ The objective is to analyze customer reviews and predict customer satisfaction w
     Predicting star ratings using reviews.
     Perform intent analysis.
 
-DATASET :
+## DATASET :
 
 The data is detailed dump of customer reviews/ complaints (~500) of different services at different banks.
 
